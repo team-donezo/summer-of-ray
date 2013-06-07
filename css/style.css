@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, serif;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  padding: 4rem 0;
+  margin: auto;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  padding: 4rem 0;
+}
+
+h2 {
+  font-size: 0.75rem;
+  font-weight: 100;
+  padding: 4rem 0;
+}
